@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a12b876-d21e-4cfc-ad08-8f015f1b8e32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../album/.idea/album.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/Jakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/ejs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/lib/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/ejs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/incoming_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/json_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/multipart_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/octet_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/lib/querystring_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/formidable/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/dest/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/dest/index.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/rollup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/node_modules/silly-datetime/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album1/201903212003.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album1/201903212022.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album2/001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album3/201903212116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album3/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/albumlist/album4/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../album/static/mime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/404.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/album.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/new.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/news.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/a/apple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/biaodan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/ii.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/postt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/try.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nodedemo/userouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../station" beforeDir="false" afterPath="$PROJECT_DIR$/../station" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/file.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/new.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/admin.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/album.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/public/album/show.ejs" />
+        <option value="$PROJECT_DIR$/public/album/show1.html" />
+        <option value="$PROJECT_DIR$/models/file/file.js" />
+        <option value="$PROJECT_DIR$/controller/router/router.js" />
+        <option value="$PROJECT_DIR$/public/404.html" />
+        <option value="$PROJECT_DIR$/views/404.ejs" />
+        <option value="$PROJECT_DIR$/views/album.ejs" />
+        <option value="$PROJECT_DIR$/models/file.js" />
+        <option value="$PROJECT_DIR$/views/admin.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/controller/router.js" />
+        <option value="$PROJECT_DIR$/views/new.ejs" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="643" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-3.3.7-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myAlbum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myAlbum" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/controller" />
+      <recent name="$PROJECT_DIR$/uploads/sgwj" />
+      <recent name="$PROJECT_DIR$/uploads/love" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="index.ejs" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myAlbum/views/index.ejs">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="file.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/models/file.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.file.js" />
+        <item itemvalue="JavaScript Debug.index.ejs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a12b876-d21e-4cfc-ad08-8f015f1b8e32" name="Default Changelist" comment="" />
+      <created>1553415253936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553415253936</updated>
+      <workItem from="1553415255631" duration="5922000" />
+      <workItem from="1553427965966" duration="619000" />
+      <workItem from="1553428628193" duration="4139000" />
+      <workItem from="1553434694599" duration="6000" />
+      <workItem from="1553498588156" duration="63000" />
+      <workItem from="1553508416387" duration="7293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22692037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25180724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36520737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25180724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/album.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/album/show.ejs" />
+    <entry file="file://$PROJECT_DIR$/public/album/show.html" />
+    <entry file="file://$PROJECT_DIR$/views/404.html" />
+    <entry file="file://$PROJECT_DIR$/views/404.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/new.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/album.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

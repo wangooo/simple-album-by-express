@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>admin</title>
+</head>
+<body>
+<h1>我是管理员oo</h1>
+<div class="main">
+    <form action="#" enctype="multipart/form-data" method="post">
+        上传照片：<input type="file" name="upload" multiple="multiple">
+        <br>
+        选择相册：
+        <br>
+        <% for(var i=0;i<albums.length;i++){ %>
+            <%= albums[i] %>:<input type="radio" name="album" value="<%= albums[i] %>">
+        <% }%>
+        <br>
+        <input type="submit" value="提交">
+    </form>
+
+    <a href="/new">新建文件夹</a>
+    <a href="/">返回</a>
+</div>
+
+<style>
+    body{
+        margin:20px;
+    }
+    input{
+        margin:20px 5px;
+    }
+    a{
+        text-decoration: none;
+    }
+</style>
+</body>
+</html>
